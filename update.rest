@@ -1,0 +1,10 @@
+PUT  http://localhost/update HTTP/1.1
+content-type: application/json
+
+{
+  "fname": "Gaurav",
+  "lname": "Dudu",
+  "password":"92244",
+  "remember": "on",
+  "email": "gagaaaa@mail.com"
+}

@@ -1,0 +1,8 @@
+POST http://localhost/find_one HTTP/1.1
+content-type: application/json
+
+{
+  "email": "ram@gmail.com",
+  "password": "12345"
+}
+

@@ -1,0 +1,11 @@
+POST http://localhost/register HTTP/1.1
+content-type: application/json
+
+{
+  "fname": "ram",
+  "lname": "dam",
+  "email": "ramram@gmail.com",
+  "password": "12345",
+  "remember": "off"
+}
+

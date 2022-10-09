@@ -1,0 +1,7 @@
+DELETE  http://localhost/unregister HTTP/1.1
+content-type: application/json
+
+{ 
+  "email": "ssshivama@gmail.com",
+  "password": "92244"
+}
